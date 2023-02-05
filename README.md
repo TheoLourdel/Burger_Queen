@@ -2,7 +2,7 @@
 
 Mise en service du site:
 
-1. Télécharger le dossier "BurgerQueen.zip" puis le décompresser
+1. Télécharger le dossier "BurgerQueen.zip" puis le décompresser.
 
 2. A partir de Xampp, lancer le serveur MySQL sur le PC, puis à partir de PHPMyAdmin, créer une nouvelle base de données nommée "burgerqueen". A partir de cette nouvelle BDD, importer le fichier "burgerqueen.sql" présent dans le dossier "BurgerQueen".
 
